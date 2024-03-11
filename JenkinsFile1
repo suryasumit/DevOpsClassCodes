@@ -1,4 +1,4 @@
-new pipeline{
+new commit pipeline{
  new chnage for commit   tools{
         jdk 'myjava'
         maven 'mymaven131'
